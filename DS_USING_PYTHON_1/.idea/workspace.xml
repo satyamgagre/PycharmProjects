@@ -61,6 +61,8 @@
     "Python.22.executor": "Run",
     "Python.23.executor": "Run",
     "Python.24.executor": "Run",
+    "Python.25.executor": "Run",
+    "Python.26.executor": "Run",
     "Python.3.executor": "Run",
     "Python.4.executor": "Run",
     "Python.5.executor": "Run",
@@ -105,7 +107,8 @@
       <workItem from="1755516562056" duration="4166000" />
       <workItem from="1755522036258" duration="846000" />
       <workItem from="1755523251457" duration="1634000" />
-      <workItem from="1755543774498" duration="4978000" />
+      <workItem from="1755543774498" duration="5406000" />
+      <workItem from="1755628251208" duration="302000" />
     </task>
     <servers />
   </component>
@@ -120,6 +123,7 @@
     <SUITE FILE_PATH="coverage/DS_USING_PYTHON_1$3.coverage" NAME="3 Coverage Results" MODIFIED="1755279267042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DS_USING_PYTHON_1$18.coverage" NAME="18 Coverage Results" MODIFIED="1755522642860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DS_USING_PYTHON" />
     <SUITE FILE_PATH="coverage/DS_USING_PYTHON_1$23.coverage" NAME="23 Coverage Results" MODIFIED="1755547958193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DS_USING_PYTHON" />
+    <SUITE FILE_PATH="coverage/DS_USING_PYTHON_1$26.coverage" NAME="26 Coverage Results" MODIFIED="1755628596873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DS_USING_PYTHON" />
     <SUITE FILE_PATH="coverage/DS_USING_PYTHON_1$8.coverage" NAME="8 Coverage Results" MODIFIED="1755348944506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DS_USING_PYTHON" />
     <SUITE FILE_PATH="coverage/DS_USING_PYTHON_1$2.coverage" NAME="2 Coverage Results" MODIFIED="1755277264583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DS_USING_PYTHON_1$12.coverage" NAME="12 Coverage Results" MODIFIED="1755372165584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DS_USING_PYTHON" />
@@ -136,6 +140,7 @@
     <SUITE FILE_PATH="coverage/DS_USING_PYTHON_1$6.coverage" NAME="6 Coverage Results" MODIFIED="1755343062871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DS_USING_PYTHON" />
     <SUITE FILE_PATH="coverage/DS_USING_PYTHON_1$19.coverage" NAME="19 Coverage Results" MODIFIED="1755524526975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DS_USING_PYTHON" />
     <SUITE FILE_PATH="coverage/DS_USING_PYTHON_1$22.coverage" NAME="22 Coverage Results" MODIFIED="1755545706890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DS_USING_PYTHON" />
+    <SUITE FILE_PATH="coverage/DS_USING_PYTHON_1$25.coverage" NAME="25 Coverage Results" MODIFIED="1755549223239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DS_USING_PYTHON" />
     <SUITE FILE_PATH="coverage/DS_USING_PYTHON_1$9.coverage" NAME="9 Coverage Results" MODIFIED="1755349864209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DS_USING_PYTHON" />
   </component>
 </project>
