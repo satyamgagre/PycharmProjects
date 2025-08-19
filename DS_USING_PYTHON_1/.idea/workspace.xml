@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84dcdf21-826e-4ab5-b246-88c7646fa1ac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="84dcdf21-826e-4ab5-b246-88c7646fa1ac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -74,6 +73,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "Rebasing main",
+    "last_opened_file_path": "C:/Users/satyam gagre/Downloads/Resources+-+Statistics+and+Hypothesis+Testing+for+Data+science/Resources - Statistics and Hypothesis Testing for Data science/Introduction to Basic and Conditional Probability/Random Variables.ipynb",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -108,7 +108,7 @@
       <workItem from="1755522036258" duration="846000" />
       <workItem from="1755523251457" duration="1634000" />
       <workItem from="1755543774498" duration="5406000" />
-      <workItem from="1755628251208" duration="302000" />
+      <workItem from="1755628251208" duration="610000" />
     </task>
     <servers />
   </component>
